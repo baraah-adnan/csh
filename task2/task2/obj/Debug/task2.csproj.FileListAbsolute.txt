@@ -1,0 +1,7 @@
+C:\C#\task2\task2\bin\Debug\task2.exe.config
+C:\C#\task2\task2\bin\Debug\task2.exe
+C:\C#\task2\task2\bin\Debug\task2.pdb
+C:\C#\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\C#\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\C#\task2\task2\obj\Debug\task2.exe
+C:\C#\task2\task2\obj\Debug\task2.pdb

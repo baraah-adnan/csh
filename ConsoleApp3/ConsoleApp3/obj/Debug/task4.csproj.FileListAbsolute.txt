@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\C-sharpTask\tasks\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
